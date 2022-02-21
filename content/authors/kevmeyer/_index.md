@@ -1,25 +1,24 @@
 ---
 # Display name
-title: Markus Hofbauer
+title: Kevin Meyer
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Research and Teaching Associate
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Technical University of Munich
-  url: "https://www.ei.tum.de/lmt"
+- name: BMW Group
+  url: "https://bmw.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research and Teaching Associate at the Chair of Media Technology and Software Engineer.
+bio: Software Engineer Autonomous Driving.
 
 interests:
 - Software Engineering
-- Teleoperated Driving
-- Adaptive Video Streaming
+- Autonomous Driving
 
 education:
   courses:
@@ -35,15 +34,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: globe
-  icon_pack: fas
-  link: https://hofbi.github.io
 - icon: envelope
   icon_pack: fas
   link: 'mailto:development@makeappdev.com'
 - icon: github
   icon_pack: fab
-  link: https://github.com/hofbi
+  link: https://github.com/kevmeyer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
