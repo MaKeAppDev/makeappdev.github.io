@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | MaKeApp</title>
+    <link>/tag/python/</link>
+      <atom:link href="/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hub2c00317364f539c733bb8c16df61695_19413_512x512_fill_lanczos_center_3.png</url>
+      <title>Python</title>
+      <link>/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>Mensa München</title>
+      <link>/apps/mensa/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/apps/mensa/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /apps/mensa/logo_hucb6d9464b4e6996da226e36cb1291b25_32542_6ac3090cdf4b70fcddef51ea532aa97a.webp 400w,
+               /apps/mensa/logo_hucb6d9464b4e6996da226e36cb1291b25_32542_1ed40b747601f69d65fbae53fffe2a0d.webp 760w,
+               /apps/mensa/logo_hucb6d9464b4e6996da226e36cb1291b25_32542_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/apps/mensa/logo_hucb6d9464b4e6996da226e36cb1291b25_32542_6ac3090cdf4b70fcddef51ea532aa97a.webp&#34;
+               width=&#34;740&#34;
+               height=&#34;316&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /apps/mensa/iPhone_hu5310f2045f34fe160d3de6915bd8d6a3_208059_1649c654846c9d53161e4b9f037d7778.webp 400w,
+               /apps/mensa/iPhone_hu5310f2045f34fe160d3de6915bd8d6a3_208059_c5bdd0166b035a3fc0ff6721758bc731.webp 760w,
+               /apps/mensa/iPhone_hu5310f2045f34fe160d3de6915bd8d6a3_208059_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/apps/mensa/iPhone_hu5310f2045f34fe160d3de6915bd8d6a3_208059_1649c654846c9d53161e4b9f037d7778.webp&#34;
+               width=&#34;422&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /apps/mensa/nexus_hu1bc160ecf6f36ccd5fa5f1b75d2c5a2c_292138_9129099c5ae6e2869a3f4caba67ee232.webp 400w,
+               /apps/mensa/nexus_hu1bc160ecf6f36ccd5fa5f1b75d2c5a2c_292138_9d50b8661286b3811bd53b9772e3c72e.webp 760w,
+               /apps/mensa/nexus_hu1bc160ecf6f36ccd5fa5f1b75d2c5a2c_292138_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/apps/mensa/nexus_hu1bc160ecf6f36ccd5fa5f1b75d2c5a2c_292138_9129099c5ae6e2869a3f4caba67ee232.webp&#34;
+               width=&#34;422&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
